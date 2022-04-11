@@ -1,0 +1,6 @@
+yarn add
+gatsby-plugin-react-helmet gatsby-plugin-react-svg gatsby-plugin-image
+gatsby-transformer-json gatsby-transformer-sharp gatsby-plugin-sharp
+gatsby-plugin-root-import  gatsby-source-filesystem gatsby-plugin-styled-jsx
+gatsby-plugin-sass  gatsby-plugin-manifest @emotion/styled @emotion/react dotenv
+@styled-jsx/plugin-sass sass node-sass
